@@ -21,6 +21,7 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    float: right;
 }
 
 h1 {
@@ -29,8 +30,8 @@ h1 {
     letter-spacing: 10px;
 }
 
-a{
-    float: right;
+a {
+    color: aquamarine;
 }
 
 h2{
