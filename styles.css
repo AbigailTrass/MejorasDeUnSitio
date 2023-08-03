@@ -14,6 +14,7 @@ body {
 }
 
 .link-button {
+    
     text-decoration: none;
     color: black;
     border: 1px solid gray;
@@ -21,7 +22,7 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
-    float: right;
+    
 }
 
 h1 {
